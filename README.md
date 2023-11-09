@@ -1,8 +1,10 @@
 # React Context API with expense tracker
 
-A sample project to understand React Context API. WIP
+A simple project to understand React Context API. Blog coming soon! 
 
-<img width="1423" alt="Screenshot 2566-11-08 at 00 01 17" src="https://github.com/QuadieZ/react-context-api-expense-tracker/assets/62594692/85788ce3-4dba-4d46-96ca-822433217d27">
+Able to add and delete transactions saved in application state
+
+<img width="1425" alt="Screenshot 2566-11-10 at 02 36 32" src="https://github.com/QuadieZ/react-context-api-expense-tracker/assets/62594692/d4852fcf-2140-4adc-9e69-903b2633033a">
 
 # Running the repo
 
