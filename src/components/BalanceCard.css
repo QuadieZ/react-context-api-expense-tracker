@@ -1,0 +1,14 @@
+.balance-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+}
+
+p {
+  margin: 0;
+}
+
+.balance-amount {
+  font-size: xx-large;
+}

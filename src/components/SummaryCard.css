@@ -1,0 +1,38 @@
+.card-container {
+  display: flex;
+  padding: 24px 48px;
+  gap: 32px;
+  background-color: white;
+  justify-content: center;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+}
+
+.v-stack {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.divider {
+  height: 100%;
+  width: 3px;
+  background-color: #e4e4e4;
+}
+
+.card-title {
+  font-size: medium;
+}
+
+.amount {
+  font-size: larger;
+}
+
+.income {
+  color: rgb(118, 196, 118);
+}
+
+.expense {
+  color: rgb(201, 89, 89);
+}
